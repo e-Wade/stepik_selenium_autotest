@@ -5,7 +5,7 @@ Training course about auto tests by Selenium and Python
 https://stepik.org/course/575/syllabus
 
 ## Content
-
+**Part 2**
 - Lesson 2.1 - Main methods of Selenium
 - Lesson 2.2 - Lists, files and js
 - Lesson 2.3 - Alerts
